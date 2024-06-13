@@ -1,5 +1,5 @@
 ![Header](./github-header-image.png)
-<h1 align="center">Hi 👋, I'm Yashas J</h1>
+<h1>Hi 👋, I'm Yashas J</h1>
 <h3 align="center">I'm a software development enthusiast with a keen interest in DevOps. I love creating efficient, scalable solutions and automating workflows. My motto: "The more you learn, the more you Earn." Always learning, always coding!</h3>
 
 - 🌱 I’m currently learning **CI/CD (GitHub Actions, Jenkins), Terraform, Ansible**
