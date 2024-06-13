@@ -1,5 +1,4 @@
-![Header](![github-header-image](https://github.com/yashas9353/yashas9353/assets/87557094/7e560510-b895-499a-ab04-4379f234a34c)
-)
+![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Yashas J</h1>
 <h3 align="center">I'm a software development enthusiast with a keen interest in DevOps. I love creating efficient, scalable solutions and automating workflows. My motto: "The more you learn, the more you Earn." Always learning, always coding!</h3>
 
